@@ -1,4 +1,4 @@
-Here is a basic [`readme.md`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FD%3A%2FGinnyPig%2FInterview_Performance%20_prediction%2Freadme.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "d:\GinnyPig\Interview_Performance _prediction\readme.md") file for your project:
+(command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FD%3A%2FGinnyPig%2FInterview_Performance%20_prediction%2Freadme.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "d:\GinnyPig\Interview_Performance _prediction\readme.md") file for your project:
 
 ```markdown
 # Interview Performance Prediction
