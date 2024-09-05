@@ -1,14 +1,3 @@
-### Plan
-
-1. **Title**: Add the project title.
-2. **Description**: Provide a brief description of the project.
-3. **Project Structure**: List and describe the main files and directories.
-4. **Getting Started**: Include prerequisites, installation steps, and usage instructions.
-
-
-### Code
-
-```markdown
 # Interview Performance Prediction
 
 This project aims to predict interview performance using machine learning techniques. The project includes data preprocessing, model training, and evaluation.
