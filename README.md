@@ -1,4 +1,12 @@
-(command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FD%3A%2FGinnyPig%2FInterview_Performance%20_prediction%2Freadme.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "d:\GinnyPig\Interview_Performance _prediction\readme.md") file for your project:
+### Plan
+
+1. **Title**: Add the project title.
+2. **Description**: Provide a brief description of the project.
+3. **Project Structure**: List and describe the main files and directories.
+4. **Getting Started**: Include prerequisites, installation steps, and usage instructions.
+
+
+### Code
 
 ```markdown
 # Interview Performance Prediction
@@ -6,16 +14,6 @@
 This project aims to predict interview performance using machine learning techniques. The project includes data preprocessing, model training, and evaluation.
 
 ## Project Structure
-
-```
-dataset.txt
-haarcascade_frontalface_default.xml
-Interview_performance_prediction.ipynb
-m.py
-main.py
-model.h5
-readme.md
-```
 
 - **dataset.txt**: Contains the dataset used for training and evaluation.
 - **haarcascade_frontalface_default.xml**: XML file for face detection using Haar cascades.
@@ -61,9 +59,3 @@ readme.md
     python main.py
     ```
 
-## License
-
-This project is licensed under the Intel License Agreement for Open Source Computer Vision Library. See the [`haarcascade_frontalface_default.xml`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FD%3A%2FGinnyPig%2FInterview_Performance%20_prediction%2Fhaarcascade_frontalface_default.xml%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "d:\GinnyPig\Interview_Performance _prediction\haarcascade_frontalface_default.xml") file for details.
-```
-
-Feel free to customize this [`readme.md`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2FD%3A%2FGinnyPig%2FInterview_Performance%20_prediction%2Freadme.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%5D "d:\GinnyPig\Interview_Performance _prediction\readme.md") file according to your project's specific requirements.
